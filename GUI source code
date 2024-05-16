@@ -1,11 +1,3 @@
-# AI assignment_3 project
-# Student_1 : Farida Mohammed Said Seleem [20216078]
-# Student_2 : Radwa Khaled Fathy [20216038]
-# Student_3 : Ahmed Mohammed Talaat [20216011]
-# Student_4 : Youssef Yasser Elkady [20215044]
-# Student_5 : Mostafa Hesham Sherif [20225085]
-
-
 import tkinter as tk
 from tkinter import messagebox
 from OthelloGame_superfinal import GameController
